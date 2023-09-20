@@ -49,6 +49,7 @@ Pour remedier à ça, je voudrais créer une application qui permettrai de pouvo
 - Avoir quelque chose qui fait le planning en fonction des planning des temps libre de tout le monde.
 - Mettre en place les jours d'entrenaiment, les jours au on veut monter notre rang dans le classement en groupe, nos jours de tournois.
 - Avoir nos historique en commun, noter ce qui ne va pas.
+- chercher d'autres equipes contre qui on pourrais jouer ? (mettre de l'argent ?)
 
 ### Joueur Professionnelle qui chercher une equipe
 21, Joueur de haut niveau, France, Célibataire
@@ -189,5 +190,8 @@ Entreprise, France.
 ## Arborecences des fichiers
 
 ## Avancement / Implémentation future
+- Possibilité pour les coachs de proposé des séance de coaching facturer ?
+- Possibilité entre 2 équpies de mettre de l'argent en jeu pour pimenter les choses ?
+- Possibilité que je fasse des tournois ou il faut une entrée de 5,50 e (je prends les 50 cents).
 
 
