@@ -1,143 +1,187 @@
-# DuoLoL
-C'est l'une de mes potentiels idée de TFE, une Application qui permettrai de trouver des compagnons de jeu sur league of legends
-# 📝 Sparkles Notes
+# 📝 DuoLoL
+C'est l'une de mes potentiels idée de TFE, une Application qui permettrai de trouver des compagnons de jeu sur League of legends
+(un espace qui permettra à tout type de joueur le monde de progresser sur le jeu et de noter sa progression ?)
 
-![Banniere](https://user-images.githubusercontent.com/73910195/213054034-1d6211c9-16ee-45df-8eaa-ee81c4c0bf33.png)
+//mettre une image
 
-## 💬 Description de l’application
+## 💬 Contexte
+Je suis un très grand joueur de league of legends (je cumule + de 2000h de jeu) et comme d'autres très grand joueurs de League of legends, je voudrais vouloir vivre des experience de jeu qualitatif et augmenter mes chances de gagner. Le problème, c'est que lorsqu'on lance une partie en solo, on va nous attribuer 4 autres personnes qu'on a jamais rencontrer auparavant et c'est plus compliqué de gagner des parties de jeu avec des gens avec qui ont a pas préalablement établit une strategie en commun ou qu'il veulent pas se coordonnées, ou encore avec qui on a pas la même vision du jeu. Ce qui nuit à la qualité de la game et peut entrainer des frustration.
 
->  « Le cerveau n'a pas été fait pour retenir mais pour des idées trouver » 
-
-alors voici  *Sparkles Notes*. Une appli qui ne laissera pas vos idées vous échappées.
-C'est une application qui permet de prendre des notes "rapides".
-
-## ❓ Pourquoi faire une application de note alors qu’il y en a des tas qui existent
-
-La vérité est que j'ai créé ce produit pour moi-même. Je suis mon propre client.
-Je suis un fervent "noteur", à chaque fois que j'ai des idées ou que je veux me rappeler le déroulement de ma journée ou encore quoi faire comme course. Je note. Alors naturellement quand on m'a donné l'occasion de pouvoir créer une application, j'ai directement opté pour faire une application de note. Je voulais regrouper toutes les bonnes choses que j'ai vu pour créer l'application de notes "ultimes".
+Pour remedier à ça, je voudrais créer une application qui permettrai de pouvoir rechercher des coéquipier afin de jouer avec des gens avec qui on est sur la même longueur d'onde.
 
 ## 👩 Public ciblé (Persona)
 
 ### Blanchar Senga-Vita (moi)
-22 ans, étudiant, Liège, Célibataire
+22 ans, Homme, joueur de bas niveau, étudiant, Liège, Célibataire
 ![image](https://user-images.githubusercontent.com/73910195/212951920-2100c90d-a29b-4f53-a240-626e3820e79d.png)
->  « J'ai besoin de prendre de notes assez rapidement pour ne pas oublier ce que je dois faire ou ne pas perdre de vue certaines idées »
+
+>  « Je veux un compagnon de jeu pour mieux profiter du jeu et progresser »
 
 #### Objectif
-- Noter toutes les choses qui me passent par la tête.
-- Noter les choses à pas oublier sur le long terme (anniversaire, recette de cuisine, course) et les retrouver facilement
-- Prendre des notes rapidement s'il faut.
-- Décharger sa mémoire pour éviter d'être hyper-vigilant sur ce qu'il ne faut pas oublier (avoir une checklist que le fait à sa place par exemple)
-- Accéder à mes notes peu importe le lieu, l'heure, les platforme (ios, android, pc, mac, etc)
-- Regrouper toutes ses notes dans une seule app
-- Avoir ses données protegées. 
+- Je voudrais trouver un compagnon de jeu de mon niveau et qui a des centres d'interêts commun au mien
+- Lui envoyer des messages
+- Plannifier des sessions d'entrainement (mettre à quelle timing on est libre, et que ce soit calculé par l'appli).
+- noter mes forces (3) et faiblesse (3) (farming, shootcalling, mecanique, vision de jeu).
+- Je voudrais qu'il y'a un suivi de nos parties en duos (notre historique de partie).
+- Je voudrais pouvoir noter dans notre historique de parties en duo ce qui allait ce qui n'allait pas apres notre partie (noter qu'on a jette notre avance, mauvaise communication, retraivailler l'execution d'une action commune).
+- je voudrais pouvoir les voirs les statistique qu'on a ensemble
+- Faire des notes de ce qu'on doit planifier dans la session d'entrainement / monter dans le classement 
+- Systeme d'objectif sur un temps donner (3 mois pour ça, ou pour maitriser cette combianaison de champ). ?
+- Je voudrais des tags qui indique ce que je voudrais qu'on travaille (farming, teamfight etc) dans notre planning d'entrainement.
+- Avoir un historique de ces précedents duo pour savoir ce que vous avez déjà travailler precedemment avec votre ancien duo/équipe ?
+- Je voudrais pouvoir partager qu'on puisse etre redirigés mes reseaux sociaux dans mon profil (Discord, Twitter, Twitch ?)
+- Avoir plusieurs mates ?
+- Avoir une equipe ?
+
+### Fille
+>  « Je veux jouer avec des filles »
+
+#### Objectif
+- Jouer uniquement qu'avec des filles (filtrer les recherches via le sexe, fonctionnalité unique pour les filles).
+
+### Un joueur amateur qui veut faire des tournois
+22 ans, joueur de bas niveau, étudiant, Liège, Célibataire
+>  « Je veux jouer des games intense en equipe »
+
+#### Objectif
+- Créer une équipe (avec un nom et un logo pré-imposé)
+- Recruter des membres pour tout les roles (voir 1 remplaçant) en fonction de certain critere (age, , niveau de jeu) ?
+- Avoir quelque chose qui fait le planning en fonction des planning des temps libre de tout le monde.
+- Mettre en place les jours d'entrenaiment, les jours au on veut monter notre rang dans le classement en groupe, nos jours de tournois.
+- Avoir nos historique en commun, noter ce qui ne va pas.
+
+### Joueur Professionnelle qui chercher une equipe
+21, Joueur de haut niveau, France, Célibataire
+>  « Je voudrais integré une equipe professionnelle de haut niveau »
+
+#### Objectif
+- Je voudrais voir les equipes qui font des essaies.
+- Je voudrais qu'il voit facilement mon palmares leaquipedia (wikipedia pour le palmares des joueurs pros), mes statistiques de jeu, mon rang sur le classement européen,
+- Je voudrais qu'il ai accès à mon lolpros, opgg, liquipedia
+- Je voudrais participer à des tournois."
+- Je veux pouvoir generer une image qui recapitule mon role, mon pool de champion, mon historique d'équipe, des competitions ou je souhaite participer, mes forces, sur mes reseaux sociaux.
+- Montrés les appreciations que des coachs font sur moi ?
+
+### Streamer
+Streamer, France, Célibataire
+>  « Je veux jouer de parties avec un autre diffuseur  »
+
+#### Objectif
+- Je veux un badge qui certifie que je suis un streamer.
+- Je veux avoir quelqu'un avec qui je pourrais streamer.
+
+### Nuc
+21, Joueur professionnelle, France, Célibataire
+>  « Je veux jouer les compétitions internationale »
+
+#### Objectif
+- Je veux un badge qui certifie que je suis professionelle.
+- Envoyer des messages aux membres de mon équipe.
+- Etre au courant des entrainements mis en place par mon équipe.
+- Avoir accès aux feedback des choses à travailler selon mes coachs.
+- Les points que je voudrais travailler presenté de façon clair.
+- Mes stats d'entrainements
+
+
+### KCP
+Structure, France
+>  « Je veux recruter des joueurs pour mon equipe professionelle »
+
+#### Objectif
+- Voir qu'elle joueur professionelle et sur le marché des transfert
+- Voir qu'elle structure / personnes sont ces referant et pouvoir rentrer en contact avec eux
+- Faire des essaies des personnes en academie
+- Avoir des données sur les tryouts qui ce sont passé
+- Pouvoir écrire des appreciation sur ce que
+- Voir l'historiques des équipes dans lequel j'ai joué.
+
+
+### Nico Perez
+21, Coach, France, Célibataire
+>  « Je veux devenir coach »
+
+#### Objectif
+- Trouver une équipe que je peux coaché pour gagné en experience.
+- Montrer mon palmarès
+- Je veux pouvoir savoir 
+- Lui envoyer des messages
+- Plannifier des sessions d'entrainement
+- Je voudrais qu'il y'a un suivi de nos parties en duos
+- Je voudrais pouvoir noter dans notre historique de parties en duo ce qui allait ce qui n'allait pas apres notre partie
+- je voudrais pouvoir les voirs les statistique qu'on a ensemble
+- Je voudrais des tags qui indique ce que je voudrais qu'on travaille (farming, teamfight etc)
+
+### Striker
+21, Coach, France, Célibataire
+>  « Je suis coach et je voudrais gérer mon équipe »
+
+#### Objectif
+- Trouver une équipe que je peux coaché pour gagné en experience.
+- Montrer mon palmarès
+- Je veux pouvoir savoir 
+- Lui envoyer des messages
+- Plannifier des sessions d'entrainement
+- Je voudrais qu'il y'a un suivi de nos parties en duos
+- Je voudrais pouvoir noter dans notre historique de parties en duo ce qui allait ce qui n'allait pas apres notre partie
+- je voudrais pouvoir les voirs les statistique qu'on a ensemble
+- Je voudrais des tags qui indique ce que je voudrais qu'on travaille (farming, teamfight etc)
+
+
+### OTPLoL
+Entreprise, France.
+>  « Je veux organiser des tournois »
+
+#### Objectif
+- Je veux créer un tournois qui sera diffusé sur internet
+- 
+
+---
 
 #### Contextes d’utilisation
-Ça peut être sur un android, un appareil apple, un mac, un pc.
+
 
 #### Expertise
-Comme dit précédemment j'en utilise assez souvent du coup je suis très à l'aise avec les applis de quick notes.
+
 
 #### Lieu d'utilisation
-Partout, à toute heure
+
 
 ## 📈 Analyse de l’existante
 
-### Google Keep
-![google keep](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+### ???
 
 | ✅ Pour                                                                                                                                                                                                                                                                                                             | ❌ contre                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - On peut rapidement faire des notes </br>- On prendre des notes vocal </br>- On peut dessiner  </br>- On peut mettre des rapples sur les notes</br>- On peut mettre des labes sur les notes</br>- Leurs donner une couleur</br>- Mode sombre</br>- Une bonne vue d’ensemble des notes</br>- On peut pin nos notes | </br> - Avoir a la fois une liste de tâches et des textes dans une note. </br> - Placer des images où on veut dans la note. </br> - Avoir une vue d’ensemble chronologique sur les rappels/notes. </br> - Changer le style du texte de nos notes (mettre en gras, en couleur, en italique). </br> - Rajouter du dessin sur nos notes. </br> - Cacher des notes et avoir un mots de passe pour les voir. </br> - Avoir un espace freeform ? </br> - prends pas en charge le markdown |
+| | |
 
 
-### notion
-![Notion](https://user-images.githubusercontent.com/73910195/212946575-50107677-4efb-46ac-9d7c-d8a9d7101176.png)
+### ???
 | ✅ pour                                                                                                                                                                                                                                                                                                        | ❌ contre                                                                                                                                                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - On peut imbriquer des notes dans des notes </br> - Nos documents sont en markdown </br> - On peut styliser son workflow </br> - On peut avoir ses notes sur d’autres platforme </br> - on peut chercher nos notes avec une chronologie </br> - on peut rajouter des tableaux et des base de donner de chose | - Compliqué à prendre en main </br> - on peut pas rajouter des dessins deçu </br> - Avoir des rappels pour les notes  - L’app ne favorise pas les quick notes </br> - On a pas une vue d’ensemble des notes </br> - On peut pas styliser à notre gouts nos notes |
+| |  |
 
 ### Samsung Notes
-![Samsung Notes](https://user-images.githubusercontent.com/73910195/212946630-e8b632cf-9c1d-4d9f-a2ec-92482d0417e7.png)
+
 | ✅ pour                                                                                                                                                        | ❌ contre                                                                                                            |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| - On peut créer des dossiers de nos notes</br> - On peut placer son contenu comme on veut sur la page de note</br> - On peut styliser à notre gouts nos notes | - On ne peut pas avoir ses notes sur d’autres platforme (android seulement)</br> - prends pas en charge le markdown |
+| | |
 
 ### Apple Notes
 ![Apples Notes](https://user-images.githubusercontent.com/73910195/212946513-17c26ea1-3fcd-4bea-bf5d-97799bc325b3.png)
 
 | ✅  pour | ❌ contre |
 |-----|-----------|
-| - on peut conserver nos notes dans le cloud</br> - on peut mettre plusieurs rappelles dans une notes</br> - on peut styliser nos notes</br> - on peut avoir des dossier de nos notes | - disponible que sur IOS (pas pu voir les défauts</br> - prends pas en charge le markdown</br> - disponible sur une seule platform |
-
+| ||
 
 
 ## Site Map
 
-![Site Map](https://user-images.githubusercontent.com/73910195/212946731-38e20c1d-e666-4835-9e69-4965ed730d5a.png)
-
 ## Moodboard
-
-![Moodboard](https://user-images.githubusercontent.com/73910195/212946569-1033e20e-87eb-4206-a6dc-8b7ef8f07933.png)
 
 ## Design
 
-<img width="688" alt="image" src="https://user-images.githubusercontent.com/73910195/212947723-06569247-903e-4aff-91db-7b7f7ee56335.png">
-
-Des choses ont changés entre le design et le développement de l'appli 
-
-## ⚙️ Fonctionnalités
-
-
-
-### S'inscrire
-
-  ![S'inscrire 2023-01-17 19_48_12](https://user-images.githubusercontent.com/73910195/212985924-2d61bb6d-8fea-4f9d-a8bb-f80196c05fef.gif)
-
-### Se connecter
-
-  ![Se connecter 2023-01-17 19_47_43](https://user-images.githubusercontent.com/73910195/212985926-dc77d55c-c2db-4ef7-ac96-dc77c2ca1456.gif)
-
-
-### Enregistrer des notes
-
-  ![Enregistrer une note 2023-01-17 19_49_21](https://user-images.githubusercontent.com/73910195/212985907-b9f21503-a475-46a8-96df-8407fa3832cf.gif)
-
-
-### Modifier des notes
-
-  ![mmodifier une note 2023-01-17 19_48_41](https://user-images.githubusercontent.com/73910195/212985922-dfc27f30-cd17-48c5-85cd-50b93d53b8d8.gif)
-
-### Supprimer des notes
-
-  ![Supprimer des notes 2023-01-17 19_46_30](https://user-images.githubusercontent.com/73910195/212985928-e1f991bb-dba7-44f3-8221-501f9a43ed16.gif)
-
-
-
 ## Arborecences des fichiers
-Dans le fichier lib, On peut retrouver :
-- Screens : là où se situe les différents écrans
-- Routes : qui contient les routes utiliser pour naviguer d'une page à une autre
-- Partials : qui contient les dossiers pour
-  - la sidebar
-  - la barre de navigation
-  - le model avec certaines data
-  - les widgets des champs de forms
-  - des buttons
-  - la carte de base d'une note
-  - Et le widget "liste de note"
-- Style : qui contient des couleur, des styles pour les textes, etc.
 
 ## Avancement / Implémentation future
-- Pouvoir archiver la note
-- Pouvoir Chercher une note 
-- Avoir la version outline des icones
-- Implénter un "soft delete" (une corbeille)
-- Laisser le user avoir une photo de profil
-- Pouvoir supprimer ou archiver la note en maintenant la carte de la note
-- Pouvoir sélectionner plusieurs notes
-- Ajouter du richtext dans les notes
-- Ajouter la possibilité de mettre des notes photos
-- Changer l’affichage de la grille
-- Qu’on puisse créer sa catégorie préférée
+
 
