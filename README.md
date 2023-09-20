@@ -127,6 +127,7 @@ Structure, France
 - je voudrais pouvoir les voirs les statistique qu'on a ensemble
 - Je voudrais des tags qui indique ce que je voudrais qu'on travaille (farming, teamfight etc)
 
+---
 
 ### OTPLoL
 Entreprise, France.
@@ -134,7 +135,13 @@ Entreprise, France.
 
 #### Objectif
 - Je veux créer un tournois qui sera diffusé sur internet
-- 
+
+### Debutant
+Entreprise, France.
+>  « Je veux que quelqu'un m'explique comment le jeu fonctionne »
+
+#### Objectif
+- Apprendre le jeu
 
 ---
 
