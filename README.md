@@ -1,6 +1,5 @@
 # 📝 DuoLoL
-C'est l'une de mes potentiels idée de TFE, une Application qui permettrai de trouver des compagnons de jeu sur League of legends
-(un espace qui permettra à tout type de joueur le monde de progresser sur le jeu et de noter sa progression ?)
+C'est l'une de mes potentiels idée de TFE, une Application qui permettrai de trouver des compagnons de jeu sur League of legends afin de progresser sur le jeu.
 
 //mettre une image
 
