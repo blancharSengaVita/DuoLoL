@@ -167,7 +167,6 @@ Entreprise, France.
 | | |
 
 ### Apple Notes
-![Apples Notes](https://user-images.githubusercontent.com/73910195/212946513-17c26ea1-3fcd-4bea-bf5d-97799bc325b3.png)
 
 | ✅  pour | ❌ contre |
 |-----|-----------|
