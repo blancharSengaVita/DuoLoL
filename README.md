@@ -50,6 +50,7 @@ Pour remedier à ça, je voudrais créer une application qui permettrai de pouvo
 - Mettre en place les jours d'entrenaiment, les jours au on veut monter notre rang dans le classement en groupe, nos jours de tournois.
 - Avoir nos historique en commun, noter ce qui ne va pas.
 - chercher d'autres equipes contre qui on pourrais jouer ? (mettre de l'argent ?)
+- S'organiser pour des lan ?
 
 ### Joueur Professionnelle qui chercher une equipe
 21, Joueur de haut niveau, France, Célibataire
