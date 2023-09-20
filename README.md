@@ -38,6 +38,7 @@ Pour remedier à ça, je voudrais créer une application qui permettrai de pouvo
 
 #### Objectif
 - Jouer uniquement qu'avec des filles (filtrer les recherches via le sexe, fonctionnalité unique pour les filles).
+- ne pas devoir afficher mon visage.
 
 ### Un joueur amateur qui veut faire des tournois
 22 ans, joueur de bas niveau, étudiant, Liège, Célibataire
@@ -68,7 +69,8 @@ Streamer, France, Célibataire
 
 #### Objectif
 - Je veux un badge qui certifie que je suis un streamer.
-- Je veux avoir quelqu'un avec qui je pourrais streamer.
+- Je veux trouver quelqu'un avec qui je pourrais streamer et jouer à league of legends.
+- plannifier les horaires des streams.
 
 ### Nuc
 21, Joueur professionnelle, France, Célibataire
@@ -160,18 +162,17 @@ Entreprise, France.
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | |  |
 
-### Samsung Notes
+### ???
 
 | ✅ pour                                                                                                                                                        | ❌ contre                                                                                                            |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | | |
 
-### Apple Notes
+### ???
 
 | ✅  pour | ❌ contre |
 |-----|-----------|
 | ||
-
 
 ## Site Map
 
