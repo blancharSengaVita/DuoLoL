@@ -57,6 +57,7 @@ Pour remedier à ça, je voudrais créer une application qui permettrai de pouvo
 >  « Je voudrais integré une equipe professionnelle de haut niveau »
 
 #### Objectif
+- afficher les langues qu'on veut parler
 - Je voudrais voir les equipes qui font des essaies.
 - Je voudrais qu'il voit facilement mon palmares leaquipedia (wikipedia pour le palmares des joueurs pros), mes statistiques de jeu, mon rang sur le classement européen,
 - Je voudrais qu'il ai accès à mon lolpros, opgg, liquipedia
