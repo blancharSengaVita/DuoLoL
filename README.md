@@ -6,7 +6,7 @@ C'est l'une de mes potentiels idée de TFE, une Application qui permettrai de tr
 ## 💬 Contexte
 Je suis un très grand joueur de league of legends (je cumule + de 2000h de jeu) et comme d'autres très grand joueurs de League of legends, je voudrais vouloir vivre des experience de jeu qualitatif et augmenter mes chances de gagner. Le problème, c'est que lorsqu'on lance une partie en solo, on va nous attribuer 4 autres personnes qu'on a jamais rencontrer auparavant et c'est plus compliqué de gagner des parties de jeu avec des gens avec qui ont a pas préalablement établit une strategie en commun ou qu'il veulent pas se coordonnées, ou encore avec qui on a pas la même vision du jeu. Ce qui nuit à la qualité de la game et peut entrainer des frustration.
 
-Pour remedier à ça, je voudrais créer une application qui permettrai de pouvoir rechercher des coéquipier afin de jouer avec des gens avec qui on est sur la même longueur d'onde.
+Pour remedier à ça, je voudrais créer une application qui permettrai de pouvoir rechercher des coéquipier voir une équipe afin de jouer avec des gens avec qui on est sur la même longueur d'onde.
 
 ## 👩 Public ciblé (Persona)
 
