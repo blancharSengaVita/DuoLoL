@@ -8,6 +8,8 @@ Je suis un très grand joueur de league of legends (je cumule + de 2000h de jeu)
 
 Pour remedier à ça, je voudrais créer une application qui permettrai de pouvoir rechercher des coéquipier voir une équipe afin de jouer avec des gens avec qui on est sur la même longueur d'onde.
 
+//parler aussi des joueurs LFT aussi bien pro que endessous et dire que j'attends que l'appliaction fasse tatatat
+
 ## 👩 Public ciblé (Persona)
 
 ### Blanchar Senga-Vita (moi)
@@ -195,5 +197,8 @@ Entreprise, France.
 - Possibilité pour les coachs de proposé des séance de coaching facturer ?
 - Possibilité entre 2 équpies de mettre de l'argent en jeu pour pimenter les choses ?
 - Possibilité que je fasse des tournois ou il faut une entrée de 5,50 e (je prends les 50 cents).
+
+## Lien utile
+- 
 
 
