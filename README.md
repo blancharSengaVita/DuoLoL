@@ -1,14 +1,37 @@
-# 📝 DuoLoL
-C'est l'une de mes potentiels idée de TFE, une Application qui permettrai de trouver des compagnons de jeu sur League of legends afin de progresser sur le jeu.
+# 📝 LFT-LoL
+Une Application qui permettrait de trouver des compagnons de jeu sur League of legends afin de progresser sur le jeu.
 
 //mettre une image
 
 ## 💬 Contexte
-Je suis un très grand joueur de league of legends (je cumule + de 2000h de jeu) et comme d'autres très grand joueurs de League of legends, je voudrais vouloir vivre des experience de jeu qualitatif et augmenter mes chances de gagner. Le problème, c'est que lorsqu'on lance une partie en solo, on va nous attribuer 4 autres personnes qu'on a jamais rencontrer auparavant et c'est plus compliqué de gagner des parties de jeu avec des gens avec qui ont a pas préalablement établit une strategie en commun ou qu'il veulent pas se coordonnées, ou encore avec qui on a pas la même vision du jeu. Ce qui nuit à la qualité de la game et peut entrainer des frustration.
+League of legends est un jeu vidéo de stratégie sorti en 2009 développé par Riot Games. C'est un jeu qui se joue en 5 contre 5 dont le but est de détruire la base de l'équipe adverse en premier. 
+
+Au fil des années, le jeu gagna en popularité et engendra une scène competitive ou des joueurs de haut niveau s'affronte pour l'obtention de Trophées. De plus en plus de structures (Organisations) se sont mis à payer des salaires à ces joueurs de haut niveau, mais aussi des coachs, des assistants coachs, analystes et autres staffs afin de remporter des trophées. Partout dans le monde des championnats officiels ont vu le jour et ceux-ci sont diffusé à travers le monde à des centaines de milliers de spectateurs. Un vrai écosystème professionnel est né.
+
+ Étant un milieu très convoité énormément de personnes essaient de se trouver une voix là-dedans aussi bien en tant que joueurs que coach, commentateur ou encore gérant d'une ligue, mais c'est loin d'être une chose facile… 
+
+Énormément d'annonce circule sur twitter, discord, ou encore sur un doc excel fait par la communauté voulant, eux aussi, vivre, à leurs niveaux, ceux que vivent les pro-players. 
+
+des ligues amateurs, clash, duo ?
+
+Aujourd'hui j'ai envie de proposer une interface adapté pour que ces gens puisse entrer dans le circuit professionnel ou au moins s'y rapprocher 
+
+Le but de mon appli est de réunir cet écosystème afin qu'il puisse plus facilement se trouver 
+ 
+L'une des manières pour se faire repérer est de poster des annonces sur twitter étant un endroit
+
+- monter dans le classement
+- rejoindre des équipes et grind
+- Otf, LFL, LEc, clash
+- Annonces twitter
+- GDOC
+- cherche de duos
+
+Je suis un très grand joueur de league of legends (je cumule + de 2000h de jeu) et comme d'autres très grand joueurs de League of legends, je voudrais vouloir vivre des experience de jeu qualitatif et augmenter mes chances de gagner. Le problème, c'est que lorsqu'on lance une partie en solo, on va nous attribuer 4 autres personnes qu'on a jamais rencontrées auparavant et c'est plus compliqué de gagner des parties de jeu avec des gens avec qui on a pas préalablement établit une stratégie en commun ou qu'ils veulent pas se coordonnées, ou encore avec qui on a pas la même vision du jeu. Ce qui nuit à la qualité de la game et peut entrainer des frustration.
 
 Pour remedier à ça, je voudrais créer une application qui permettrai de pouvoir rechercher des coéquipier voir une équipe afin de jouer avec des gens avec qui on est sur la même longueur d'onde.
 
-//parler aussi des joueurs LFT aussi bien pro que endessous et dire que j'attends que l'appliaction fasse tatatat
+//parler aussi des joueurs LFT aussi bien pro qu'en-dessous et dire que j'attends que l'appliaction fasse tatatat
 
 ## 👩 Public ciblé (Persona)
 
