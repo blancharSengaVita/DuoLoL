@@ -221,7 +221,7 @@ Lolpros ?
 ## Fonctionnalité
 - Gamification lorsqu'on remplie des objectifs
 
-## Arborecences des fichiers
+## Arborescences des fichiers
 - Arborescences laravel classiques
 
 ## Avancement / Implémentation future

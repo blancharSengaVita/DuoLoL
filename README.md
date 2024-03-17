@@ -12,17 +12,13 @@ Au fil des années, le jeu gagna en popularité et engendra une scène competiti
 
 Actuellement les gens qui veulent se lancer dans ce domaine utilise twitter, Discord ou Encore des Google sheets qui ne permettent pas la visibilité recherchée.
 
-//photo twitter
-//photo discord
-//photo du sheet
-
 ## 👩 Public ciblé (Persona)
 
 ### Joueur amateur
 >  « Je veux partager mon experience de jeu »
 
 - Liées son compte avec son compte du jeu.
-- Pouvoir se chercher un duo
+- Pouvoir se chercher un duo (équipe juste de 2)
 - Pouvoir se chercher une équipe pour un futur clash, un tournoi, monter le classement en groupe ou juste jouer avec des gens.
 - Envoyer des messages à mon groupe, ou juste avec un ami.
 - Mettre ses compétences en avant sur mon profil
@@ -74,6 +70,7 @@ En plus de pouvoir faire ce qu'un joueur amateur peut faire
 - Fille ? : Être inclusif en proposant des équipes qu'avec des filles, des ligues féminines, etc.
 
 ## Résumé des fonctionnalités
+- promo du jour dans le shop, skins légendaires dans le shop
 - Créer son compte
 - Indiquer le type de profil (Joueur, Staff, Ligue ou Structure)
 - Se créer des profils secondaires (Joueurs/Staff, Ligue, Équipe)
@@ -91,6 +88,10 @@ En plus de pouvoir faire ce qu'un joueur amateur peut faire
 - Recherche rapide
 - Indiqué si je suis en recherche d'une équipe ou non
 - Gamification
+
+### fonctionnalités plus poussés
+- lock son équipe (de 2 ne pas être vu dans la recherche d'équipe)
+- 
 
 #### Contextes d’utilisation
 Sur pc, on va partir du principe que les gens qui jouent à league of legends ont un pc gamer ou au moins [les configurations de base](https://support-leagueoflegends.riotgames.com/hc/fr/articles/201752654-Configurations-minimales-et-recommand%C3%A9es-League-of-Legends)
@@ -155,9 +156,30 @@ League of Legends étant un jeu pour un public averti, les joueurs ont l'habitud
 ![GOl.gg](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
 
 
-| ✅ Pour                                                                    | ❌ contre                                                        |
-|---------------------------------------------------------------------------|-----------------------------------------------------------------|
-| stats (win-lose, winrate, kda generale, cs par minute, Kill participation | - Statistique de games officiel uniquement) </br> Stats record  |
+| ✅ Pour                                                                      | ❌ contre                                                        |
+|-----------------------------------------------------------------------------|-----------------------------------------------------------------|
+| - stats (win-lose, winrate, kda generale, cs par minute, Kill participation | - Statistique de games officiel uniquement) </br> Stats record  |
+
+### duoo.gg
+![duoo.gg](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+
+
+| ✅ Pour                                                                                                                                                                                                                                                                                                                                                                  | ❌ contre                                                                                                                                                                    |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - Permet de trouver des duoos <br/> - System de review de games <br/>  - Système de classement de duo, - filtres par langues, jeux, genre, rangs, etc <br/> track les parties faites en duooo <br/> - On peut se connecter avec Twitch, Riot, Discord et Gmail <br/> - On a un onglet ou on nous suggère des duos et les demandes de duos <br/> - recherche entre smurf | - On ne peut pas trouver de groupe uniquement des duoos <br/> - On ne s'intéresse qu'a des joueurs de league of legends et pas à des gens qui veulent en faire leur métiers |
+
+### Mention honorables (Site que visite souvent les joueurs)
+- League of graphs
+- Opgg
+- Ugg
+- Mobalytics (jolies cartes avec un dégradé)
+- deep lol
+- one tricks.gg
+- Championnmastery.gg
+- https://euw.whatismymmr.com/
+- discord website
+- https://lolesports.com/schedule?leagues=lec
+- https://www.leagueoflegends.com/en-gb/?utm_medium=card1%2Blolesports.com&utm_source=riotbar
 
 
 
@@ -179,6 +201,7 @@ En Attente
 - Arborescences laravel classiques
 
 ## Avancement / Implémentation future
+- Recherche de scrim
 - Faire des calls ? en 1v1 ? en groupe ?
 - Possibilité pour les coachs de proposé de la séance de coaching facturé ?
 - Possibilité entre 2 équipes de mettre de l'argent en jeu pour pimenter les choses ?
@@ -197,28 +220,28 @@ En Attente
 ### Listes de mes potentiels testeurs
 
 #### Ami proche
-Théo
-Bilal
-Abdel
-François
-Lucas
-Troodbeat
-Khoubz
-Gab
-Sin
-Morti
+Théo,
+Bilal,
+Abdel,
+François,
+Lucas,
+Troodbeat,
+Khoubz,
+Gab,
+Sin,
+Morti,
 
 #### Discord/Twitter mutus
-Major
-kazyPasContent
-Doki
-Joestar
-Energiz
-Zboulé (Vlad)
+Major,
+kazyPasContent,
+Doki,
+Joestar,
+Energiz,
+Zboulé (Vlad),
 
 #### Discord ou trouver des gens
-LKL / Kcrapule inhouse
-Skypeia league
-Discord League of legends FR
-LoL FA Discord Public Database (la google sheet)
-Twitter LOL LFT
+LKL / Kcrapule inhouse,
+Skypeia league,
+Discord League of legends FR,
+LoL FA Discord Public Database (la google sheet),
+Twitter LOL LFT,
