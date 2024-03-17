@@ -38,7 +38,7 @@ Actuellement les gens qui veulent se lancer dans ce domaine utilise twitter, Dis
 - Suivre des profils
 - Républier des posts
 - Post de pour dire que je recrute ou que je recherche
-- recherche de duo spontanée ? (lang, rang, rôwle)
+- recherche de duo spontanée ? (lang, rang, rôle)
 
 ### Joueur professionnel
 >  « Je veux gagner ma vie en jouant »
@@ -104,11 +104,62 @@ League of Legends étant un jeu pour un public averti, les joueurs ont l'habitud
 À la maison, sur le pc
 
 ## 📈 Analyse de l’existante
-twitter
-linkedin
-Discord
-Googlesheets LFT
-Lolpros ?
+
+
+### Twitter
+![Twitter](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+
+| ✅ Pour                                                                                                                                                                                                                                                                                           | ❌ contre                                                                                                                                                                                                                                                             |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - Présence de tous les acteurs de la scène League of Legends  </br>- On peut faire des posts  </br>- Utilisé par les joueurs/structures pour diffuser des annonces </br>- On peut envoyer des messages à d'autres utilisateurs </br>- on peut suivre d'autres utilisateurs </br>- Bon onboarding | </br>- Difficulté de repérer les annonces d'emploi pour l'écosystème League of Legends parmi le flux constant de tweets  </br>- La fonctionnalité de recherche est assez mauvaise en plus de ne pas être adapté pour la recherche de coéquipier et/ou de structure.  |
+
+### Linkedin
+![Linkedin](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+
+| ✅ Pour                                                                                                                                                                                                                                                                                                                                                | ❌ contre                                                                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - On peut avoir un profil avec des informations comme la formation, expériences, compétences </br>- On peut créer des post </br>- On peut rechercher un emploie ou une organisation  </br>- On peut republier des post </br>- On peut envoyer des messages à d'autres utilisateurs </br>-  on peut suivre d'autres utilisateurs </br>- Bon onboarding | </br> - Non adapté pour les joueurs d'e-sport d'un jeu (notamment league of legend) </br> - Beaucoup de personne parle d'une atmosphère trop leches-bottes et superficiels |
+
+### LoL FA Discord Public Database
+![LoL FA Discord Public Database](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+
+| ✅ Pour                                                                                                                                                                                                                                                                                                                      | ❌ contre                                                                                                                                                    |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - Adapté à chaque type de profil dans l'écosystème League of Legends (Joueurs / Structures / Staff / Ligue )  </br>- Facilite le renseignement des informations d’un profil.  </br>- Permet de créer des images LFT associées à un post Twitter. </br>- Propose une liste de compétences que les joueurs peuvent utiliser.  | </br> Propose une liste de compétences que les joueurs peuvent utiliser.  </br> - L'interface du tableau Excel a un potentiel d'amélioration considérable.  |
+
+### Discord
+![Linkedin](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+
+| ✅ Pour                                                                  | ❌ contre                                                                                                                                             |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - Permet de rencontrer directement les équipes presentes dans un league | - Dificile d'acceder aux serveurs depuis internet, un nouveau pratiquant aura du mal à trouver </br> - Il y a pas toujours des moment de recrutement |
+
+### LiguePedia
+![LiguePedia](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+
+| ✅ Pour                                                                                                                                                                                                                                                                                                           | ❌ contre |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| - photo du joueurs </br>- information genérales sur le joueurs (nom, prénonm, pays, region dans le jeu, region precedentes dans le jeu, equipe actuelle, role, favorite champ, pseduo ?, ancienne équipe, date d'entrée et sorti dans les équipes, classement des saisons passés </br>- lien vers les interviews | -        |
+
+
+
+### Lolpros
+![Lolpros](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+
+
+| ✅ Pour                                                                                                                                                                                   | ❌ contre                               |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+| - On peut voir ces anciennes équipes - On peut voir ses stats sur le classement européens </br> - graphique de l'historiques de lp </br> - Peak élo de la saison et élo de fin de saison | - Site réserver exclusivement aux pros |
+
+### GOL.gg
+![GOl.gg](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+
+
+| ✅ Pour                                                                    | ❌ contre                                                        |
+|---------------------------------------------------------------------------|-----------------------------------------------------------------|
+| stats (win-lose, winrate, kda generale, cs par minute, Kill participation | - Statistique de games officiel uniquement) </br> Stats record  |
+
+
 
 ## Site Map
 En reflexion
@@ -120,6 +171,8 @@ En Attente
 En Attente
 
 ## Design
+### Fonts
+Manrope ?
 En Attente
 
 ## Arborescences des fichiers
