@@ -108,35 +108,35 @@ League of Legends étant un jeu pour un public averti, les joueurs ont l'habitud
 
 
 ### Twitter
-<img src="img/twitter_logo_banner_12.jpg" alt="twitter" height="200px"/>
+<img src="img/twitter_logo_banner_12.jpg" alt="Logo twitter" height="200px" style="display: block; margin: 0 auto"/>
 
 | ✅ Pour                                                                                                                                                                                                                                                                                           | ❌ contre                                                                                                                                                                                                                                                             |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | - Présence de tous les acteurs de la scène League of Legends  </br>- On peut faire des posts  </br>- Utilisé par les joueurs/structures pour diffuser des annonces </br>- On peut envoyer des messages à d'autres utilisateurs </br>- on peut suivre d'autres utilisateurs </br>- Bon onboarding | </br>- Difficulté de repérer les annonces d'emploi pour l'écosystème League of Legends parmi le flux constant de tweets  </br>- La fonctionnalité de recherche est assez mauvaise en plus de ne pas être adapté pour la recherche de coéquipier et/ou de structure.  |
 
 ### Linkedin
-![Linkedin](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+<img src="img/LinkedIn-Blue-128-Ôö¼┬½@2x.png" alt="Logo Linkedin" height="200px" style="display: block; margin: 0 auto"/>
 
 | ✅ Pour                                                                                                                                                                                                                                                                                                                                                | ❌ contre                                                                                                                                                                   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | - On peut avoir un profil avec des informations comme la formation, expériences, compétences </br>- On peut créer des post </br>- On peut rechercher un emploie ou une organisation  </br>- On peut republier des post </br>- On peut envoyer des messages à d'autres utilisateurs </br>-  on peut suivre d'autres utilisateurs </br>- Bon onboarding | </br> - Non adapté pour les joueurs d'e-sport d'un jeu (notamment league of legend) </br> - Beaucoup de personne parle d'une atmosphère trop leches-bottes et superficiels |
 
 ### LoL FA Discord Public Database
-![LoL FA Discord Public Database](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+<img src="img/screenshot_5.png" alt="Bannière de LoL FA Discord Public Database" height="200px" style="display: block; margin: 0 auto"/>
 
 | ✅ Pour                                                                                                                                                                                                                                                                                                                      | ❌ contre                                                                                                                                                    |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | - Adapté à chaque type de profil dans l'écosystème League of Legends (Joueurs / Structures / Staff / Ligue )  </br>- Facilite le renseignement des informations d’un profil.  </br>- Permet de créer des images LFT associées à un post Twitter. </br>- Propose une liste de compétences que les joueurs peuvent utiliser.  | </br> Propose une liste de compétences que les joueurs peuvent utiliser.  </br> - L'interface du tableau Excel a un potentiel d'amélioration considérable.  |
 
 ### Discord
-![Linkedin](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+<img src="img/discord-new-logo-white-bg.jpg" alt="Logo Discord" height="200px" style="display: block; margin: 0 auto"/>
 
 | ✅ Pour                                                                  | ❌ contre                                                                                                                                             |
 |-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | - Permet de rencontrer directement les équipes presentes dans un league | - Dificile d'acceder aux serveurs depuis internet, un nouveau pratiquant aura du mal à trouver </br> - Il y a pas toujours des moment de recrutement |
 
 ### LiguePedia
-![LiguePedia](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+<img src="img/Liquipedia-Logo.jpg" alt="Logo Liquipedia" height="200px" style="display: block; margin: 0 auto"/>
 
 | ✅ Pour                                                                                                                                                                                                                                                                                                           | ❌ contre |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
@@ -145,7 +145,7 @@ League of Legends étant un jeu pour un public averti, les joueurs ont l'habitud
 
 
 ### Lolpros
-![Lolpros](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+<img src="img/6db70102-0917-40bc-8da0-f35cef489130-profile_banner-480.jpeg" alt="Logo lol Pros" height="200px" style="display: block; margin: 0 auto"/>
 
 
 | ✅ Pour                                                                                                                                                                                   | ❌ contre                               |
@@ -153,7 +153,7 @@ League of Legends étant un jeu pour un public averti, les joueurs ont l'habitud
 | - On peut voir ces anciennes équipes - On peut voir ses stats sur le classement européens </br> - graphique de l'historiques de lp </br> - Peak élo de la saison et élo de fin de saison | - Site réserver exclusivement aux pros |
 
 ### GOL.gg
-![GOl.gg](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+<img src="img/golgg banner.png" alt="Bannière GOL.gg" height="200px" style="display: block; margin: 0 auto"/>
 
 
 | ✅ Pour                                                                      | ❌ contre                                                        |
@@ -161,7 +161,7 @@ League of Legends étant un jeu pour un public averti, les joueurs ont l'habitud
 | - stats (win-lose, winrate, kda generale, cs par minute, Kill participation | - Statistique de games officiel uniquement) </br> Stats record  |
 
 ### duoo.gg
-![duoo.gg](https://user-images.githubusercontent.com/73910195/212946561-34673d3c-d45b-4a30-9aa0-e3a7a25bc024.png)
+<img src="img/Duoogg banner.png" alt="Bannière Duoogg" height="200px" style="display: block; margin: 0 auto"/>
 
 
 | ✅ Pour                                                                                                                                                                                                                                                                                                                                                                  | ❌ contre                                                                                                                                                                    |
