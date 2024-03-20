@@ -153,7 +153,7 @@ League of Legends étant un jeu pour un public averti, les joueurs ont l'habitud
 | - On peut voir ces anciennes équipes - On peut voir ses stats sur le classement européens </br> - graphique de l'historiques de lp </br> - Peak élo de la saison et élo de fin de saison | - Site réserver exclusivement aux pros |
 
 ### GOL.gg
-<img src="img/golgg banner.png" alt="Bannière GOL.gg" height="200px" style="display: block; margin: 0 auto"/>
+<img src="img/golgg banner.png" alt="Bannière GOL.gg" height="200px" style="display: block; margin: 0 auto;"/>
 
 
 | ✅ Pour                                                                      | ❌ contre                                                        |
