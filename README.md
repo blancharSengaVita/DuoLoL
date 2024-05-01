@@ -184,21 +184,25 @@ League of Legends étant un jeu pour un public averti, les joueurs ont l'habitud
 
 
 ## Site Map
-En reflexion
+Voir Arborecense.md
 
 ## Wireframe
-En Attente
+https://www.figma.com/file/XloMmzqGGzAHgSiLOSB979/Wireframing-(Copy)?type=design&node-id=0%3A1&mode=design&t=8K2uNFizK8Lu78Wp-1
 
 ## Moodboard
 En Attente
 
 ## Design
-### Fonts
-Manrope ?
-En Attente
+Tailwindui
 
 ## Arborescences des fichiers
-- Arborescences laravel classiques
+- Arborescences laravel classique
+
+## Stack
+- Laravel
+- Livewire
+- Alpine
+- Taiwind
 
 ## Avancement / Implémentation future
 - Recherche de scrim

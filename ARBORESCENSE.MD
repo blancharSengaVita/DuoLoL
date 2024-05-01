@@ -5,6 +5,7 @@ Voici comment va se découper l'application :
 à definir
 ## Page : Se connecter
 ### Le Formulaire 
+- H1 / Logo : Se connecter !
 - champ : email/nom d'utilisateur
 - champ : mot de passe
 - champ se souvenir de moi
@@ -33,11 +34,16 @@ Voici comment va se découper l'application :
 ### Formulaire 1
 - Champ : Email/Nom d'utilisateur
 - Champ : mot de passe
+- Champ : mot de passe confirmé
+- Bouton : S'inscrire avec Google 
+- Bouton : S'inscrire avec Riot
+
 ### Formulaire 2
 - Champ : Nom
 - Champ : Prénom
 - Champ : Pseudo officiel
 - Date de naissance
+
 ### lien
 - déjà un compte ?
 - S'authentifier avec google
@@ -59,9 +65,24 @@ Voici comment va se découper l'application :
 - MultiSelect : Choisir les langues qu'on veut parler
 - Choisir une photo
 - Choisir une bannière
+- Select : region
 ### Formulaire 2
 - Liens/Bouton : Ajouter un compte league of legends
-### Formulaire 3
+
+
+
+## Element sur toutes les pages de l'app
+### Nav - sidebar
+#### liens
+- Profil
+- Rechercher une équipe/un Duo
+- Paramètres
+- Messages
+- Notifications
+- ajouter/changer de compte
+- Se déconnecter
+
+### Modale
 #### Fieldset: Ajouter ses réseaux sociaux ici (twitter, Discord, youtube, Twitch, Liguepedia)
 - Champ : titre du lien
 - Champ : url du lien
@@ -75,16 +96,6 @@ Voici comment va se découper l'application :
 - paragraphe : nom du lien
 - paragraphe : url du lien
 
-## Element sur toutes les pages de l'app
-### Nav - sidebar
-#### liens
-- Profil
-- Paramètres
-- Messages
-- Notifications
-- ajouter/changer de compte
-- Rechercher une équipe/un Duo
-- Se déconnecter
 
 ### Barre de recherche classique
 - Soit dans le header soit dans l'aside
@@ -102,6 +113,7 @@ Voici comment va se découper l'application :
 ![img_3.png](img%2FArborescence%2Fsearch%20bar%2Fimg_3.png)
 
 ### Nav header
+- Logo du site ?
 - Profil (mon compte)
 - langue
 - Recherche
@@ -109,14 +121,21 @@ Voici comment va se découper l'application :
 ### Aside
 - Jauge sur le profil pour compléter les information
 - Proposer des profils ?
-- Proposer d'améliorer son interface (rajouter un bio des photos)
+- Proposer d'améliorer son interface (rajouter une bio des photos)
 - Onboarding
-  ![img.png](img/Arborescence/aside/img.png)
+![img.png](img/Arborescence/aside/img.png)
+#### Board : indiquer 
 - afficher les langues qu'on peut parler
 - Veut vocal ou non
 - autres infos comme dans un CV ?
 - Nationalité ?
 - A la recherche de (type de mate)
+#### Badge 
+medailles 1er duo
+BFF (il a joué plus 50 fois avec un duo)
+1er duo
+1er Equi
+1er,5e,10e,20é review !
 
 ### Div :  Changement de compte
 Pouvoir passer d'un compte à un autre
@@ -211,7 +230,7 @@ Roles avec qui je voudrais jouer, langue parler, age, sexe ?,
 - P : Lieu
   ![img.png](img.png)
 
-#### Compétences/Qualités
+#### Compétences/Qualités (il peut décrire tous sa dans sa bio ?)
 - Les 3 Compétences forts
 - Les 3 Meilleurs qualités
 - Les 3 Champs du Signature
@@ -254,7 +273,7 @@ Roles avec qui je voudrais jouer, langue parler, age, sexe ?,
 - fun / tryhard
 
 ### Main : Match history
-[Capture d’écran 2024-04-14 à 13.13.35.png](img%2FArborescence%2FMatch%20history%2FCapture%20d%E2%80%99%C3%A9cran%202024-04-14%20%C3%A0%2013.13.35.png)
+![Capture d’écran 2024-04-14 à 13.13.35.png](img%2FArborescence%2FMatch%20history%2FCapture%20d%E2%80%99%C3%A9cran%202024-04-14%20%C3%A0%2013.13.35.png)
 ![Capture d’écran 2024-04-14 à 13.13.52.png](img%2FArborescence%2FMatch%20history%2FCapture%20d%E2%80%99%C3%A9cran%202024-04-14%20%C3%A0%2013.13.52.png)
 ![Capture d’écran 2024-04-14 à 13.20.56.png](img%2FArborescence%2FMatch%20history%2FCapture%20d%E2%80%99%C3%A9cran%202024-04-14%20%C3%A0%2013.20.56.png)
 ![Capture d’écran 2024-04-14 à 13.42.27.png](img%2FArborescence%2FMatch%20history%2FCapture%20d%E2%80%99%C3%A9cran%202024-04-14%20%C3%A0%2013.42.27.png)
@@ -353,13 +372,6 @@ Afficher les avis favorables à l'encontre des joueurs et les personnes du milie
 - p : Metier
 - p : Commentaire
 - p : Date
-
-- Afficher la position actuelle dans le classement du jeu / la position maximale atteinte du joueur.
-- Peak de l'élo et pick élo fin de saison
-- Date d'entrée et sortie dans les équipes
-- Ancienne équipe,
-- Centre d'intérêt,
-- Vocale enjoyer ?
 
 ### Main : more aboute me
 - Centre d'intérêts
@@ -482,19 +494,26 @@ https://docs.google.com/spreadsheets/d/1QW422aU3T3W7sFjF9gZbs1LiW5hfTzoTllVfbHNW
 - Champ : ambition (gagner la Lec, Gagner une lane)
 - Checkbox : Je certifie être mandataire de cette organisation et disposer du droit d’agir en son compte pour créer et gérer cette page. L’organisation et moi-même acceptons les conditions supplémentaires des Pages.
 ### Formulaire 2
-- Liens/Bouton : Ajouter un compte league of legends
+Ajouter un joueur
+- Liens/Bouton : Ajouter des gens dans l'équipe /
+- input : nom de l'utilsateur (pré remplir)
+- role / staff
+- nationalité
+
+Ajouter un staff
+Role
+Nationalité
 
 ## Page Profil équipe ?
 https://docs.google.com/spreadsheets/d/1QW422aU3T3W7sFjF9gZbs1LiW5hfTzoTllVfbHNWs4M/edit#gid=1982700800
 ### Hero
-- Listé les informations du joueur
+- Listé les informations de l'équiope
   - Photo de profil
   - Metier (Equipe lol (pros))
   - Nom, prénom OU/ET pseudo,
   - Pays, region dans le jeu, 
   - Langues
   - Lien des reseaux sociaux
-  - Équipe Actuelle (option pas d'équipe/LFT)
   - Faire aussi de l'onboarding ? (voir linkedin)
   - Posséder un badge certifiant si l'on est professionnel/professionnelle (afin de les différencier des amateurs)
   - Lien : facebook, Twitter, Insta (autant qu'on veut (voir youtube bannière + twitch))
@@ -552,10 +571,8 @@ https://docs.google.com/spreadsheets/d/1QW422aU3T3W7sFjF9gZbs1LiW5hfTzoTllVfbHNW
 #### Staff de l'équipe (comme lol pros)
 - Titre : Membres
 - Card :
-  - Icone du roles
   - Drapeau du pays
   - date d'arrivé
-  - logo du élo - élo
 
 #### Previous member
   (liste de tout les membres passé comme la liste de membres de l'équipe)
@@ -565,7 +582,7 @@ l'ajout de membres doit se faire par la surface administrateur
 - soit en ajoutant le compte et/ou le profile
 - ajouer un membres qui a un compte existant ou non
 
-#### historiques de l'équipe (faut être plus de 3)
+#### historiques de l'équipe (faut être plus de 3) ?
 - oppgg de team
 
 #### best moves / games
@@ -574,11 +591,14 @@ l'ajout de membres doit se faire par la surface administrateur
 ![img_5.png](img_5.png)
 ![img_6.png](img_6.png)
 
-#### liens des games officiel
+#### liens des games officiel ?
 - ul : liens des games
 
-#### liens des games officiel
+#### liens des article
 - ul : liens des articles
+
+### main : on recrute
+afficher vide avec un + pour ajouter des demandes via une modale
 
 ## Page : Recherche de duo /équipe
 - Bouton : Faire un posts de recrutement
@@ -665,7 +685,37 @@ l'ajout de membres doit se faire par la surface administrateur
 - Route register
 
 ## Page : Paramètre
-Option - Ne pas autoriser les messages à tout le monde Bloquer les gens que tu ne connais pas.
+### nav
+Information du compte
+Confidentialité et sécurité
+Notification
+
+### sub-page : Information du compte
+#### Section : identité du profil
+Champ : Prénom
+Champ : Nom d’utilisateur
+Champ : Pseudo officiel
+Champ/Select : Nom affiché
+Champ : Nom @
+Champ : Type de compte
+Bouton : enregistrer
+
+#### Section : information sur l'utilisateurs
+Champ : Email
+Champ : Pays
+Champ : langue
+Champ : Sexe
+Champ : Date de naissance
+Bouton : enregistrer
+
+### sub-page : Sécurite et confidentialité
+Checkbox : Désactiver les messages d’user non certifié
+Checkbox : Désactiver les demandes d’équipe non certifié
+
+
+### sub-page : Notification
+Checkbox : Désactiver les notifs
+Checkbox : Désactiver les mails
 
 ## Page : Paramètre
 - Changer
@@ -722,3 +772,7 @@ moodboard
 - Tec
 - Laracast
 - Forem
+
+Parametre : Affichage (Pas mnt)
+Parametre : Preference (pas mnt)
+bloquer les gens (pas mnt)
